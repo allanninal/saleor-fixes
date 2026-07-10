@@ -1,0 +1,11 @@
+{
+  "name": "saleor-fixes",
+  "version": "1.0.0",
+  "description": "Python and Node.js scripts that detect and repair common Saleor store problems.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
